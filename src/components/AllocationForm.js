@@ -47,9 +47,9 @@ const AllocationForm = (props) => {
                         <option value="Marketing" name="marketing"> Marketing</option>
                 <option value="Sales" name="sales">Sales</option>
                 <option value="Finance" name="finance">Finance</option>
-                <option value="HR" name="hr">HR</option>
-                <option value="IT" name="it">IT</option>
-                <option value="Admin" name="admin">Admin</option>
+                <option value="Human Resource" name="Human Resource">Human Resource</option>
+                <option value="IT" name="IT">IT</option>
+                <option value="Admin" name="Admin">Admin</option>
                   </select>
 
                     <div className="input-group-prepend" style={{ marginLeft: '2rem' }}>
